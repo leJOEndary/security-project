@@ -8,6 +8,6 @@ STEPS:
 4- Go to your browser locahost/phpmyadmin/
 5- go to  import tab
 6- choose the databasefolder from project files (tweety.sql) scroll down and click go.
-7- go to your browser type localhost/Twitter.
+7- go to your browser type localhost/TwitterS.
 
 now it should be all set 
